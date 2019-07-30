@@ -56,7 +56,7 @@ namespace Sales_Data.CSVParser
       var csv = new StringBuilder();
       var heading = $"KeyWord Search: {string.Join(",", pharmacySearch.PharmacySearch)}";
       csv.AppendLine(heading);
-      var firstLine = "Item Number,Locum Qty,Total Spend($)";
+      var firstLine = "Item Number,Item Description,Locum Qty,Total Spend($)";
       csv.AppendLine(firstLine);
 
 
