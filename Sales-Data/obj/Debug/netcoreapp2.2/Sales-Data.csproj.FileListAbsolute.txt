@@ -1,0 +1,11 @@
+/Users/benmuller/locumco/Sales-Data/bin/Debug/netcoreapp2.2/Sales-Data.deps.json
+/Users/benmuller/locumco/Sales-Data/bin/Debug/netcoreapp2.2/Sales-Data.runtimeconfig.json
+/Users/benmuller/locumco/Sales-Data/bin/Debug/netcoreapp2.2/Sales-Data.runtimeconfig.dev.json
+/Users/benmuller/locumco/Sales-Data/bin/Debug/netcoreapp2.2/Sales-Data.dll
+/Users/benmuller/locumco/Sales-Data/bin/Debug/netcoreapp2.2/Sales-Data.pdb
+/Users/benmuller/locumco/Sales-Data/obj/Debug/netcoreapp2.2/Sales-Data.csprojAssemblyReference.cache
+/Users/benmuller/locumco/Sales-Data/obj/Debug/netcoreapp2.2/Sales-Data.csproj.CoreCompileInputs.cache
+/Users/benmuller/locumco/Sales-Data/obj/Debug/netcoreapp2.2/Sales-Data.AssemblyInfoInputs.cache
+/Users/benmuller/locumco/Sales-Data/obj/Debug/netcoreapp2.2/Sales-Data.AssemblyInfo.cs
+/Users/benmuller/locumco/Sales-Data/obj/Debug/netcoreapp2.2/Sales-Data.dll
+/Users/benmuller/locumco/Sales-Data/obj/Debug/netcoreapp2.2/Sales-Data.pdb

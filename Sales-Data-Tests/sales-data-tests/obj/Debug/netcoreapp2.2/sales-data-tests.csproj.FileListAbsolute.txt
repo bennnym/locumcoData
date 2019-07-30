@@ -1,0 +1,17 @@
+/Users/benmuller/locumco/Sales-Data-Tests/sales-data-tests/obj/Debug/netcoreapp2.2/sales-data-tests.csprojAssemblyReference.cache
+/Users/benmuller/locumco/Sales-Data-Tests/sales-data-tests/obj/Debug/netcoreapp2.2/sales-data-tests.csproj.CoreCompileInputs.cache
+/Users/benmuller/locumco/Sales-Data-Tests/sales-data-tests/obj/Debug/netcoreapp2.2/sales-data-tests.AssemblyInfoInputs.cache
+/Users/benmuller/locumco/Sales-Data-Tests/sales-data-tests/obj/Debug/netcoreapp2.2/sales-data-tests.AssemblyInfo.cs
+/Users/benmuller/locumco/Sales-Data-Tests/sales-data-tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/benmuller/locumco/Sales-Data-Tests/sales-data-tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/benmuller/locumco/Sales-Data-Tests/sales-data-tests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/benmuller/locumco/Sales-Data-Tests/sales-data-tests/bin/Debug/netcoreapp2.2/sales-data-tests.deps.json
+/Users/benmuller/locumco/Sales-Data-Tests/sales-data-tests/bin/Debug/netcoreapp2.2/sales-data-tests.runtimeconfig.json
+/Users/benmuller/locumco/Sales-Data-Tests/sales-data-tests/bin/Debug/netcoreapp2.2/sales-data-tests.runtimeconfig.dev.json
+/Users/benmuller/locumco/Sales-Data-Tests/sales-data-tests/bin/Debug/netcoreapp2.2/sales-data-tests.dll
+/Users/benmuller/locumco/Sales-Data-Tests/sales-data-tests/bin/Debug/netcoreapp2.2/sales-data-tests.pdb
+/Users/benmuller/locumco/Sales-Data-Tests/sales-data-tests/bin/Debug/netcoreapp2.2/Sales-Data.dll
+/Users/benmuller/locumco/Sales-Data-Tests/sales-data-tests/bin/Debug/netcoreapp2.2/Sales-Data.pdb
+/Users/benmuller/locumco/Sales-Data-Tests/sales-data-tests/obj/Debug/netcoreapp2.2/sales-data-tests.csproj.CopyComplete
+/Users/benmuller/locumco/Sales-Data-Tests/sales-data-tests/obj/Debug/netcoreapp2.2/sales-data-tests.dll
+/Users/benmuller/locumco/Sales-Data-Tests/sales-data-tests/obj/Debug/netcoreapp2.2/sales-data-tests.pdb
