@@ -28,7 +28,6 @@ namespace Sales_Data.Pharmacy
         addItem.Id = itemNumber;
         addItem.Description = itemDescription;
         addItem.NumberOfLocums = Int32.Parse(locumQty);
-        System.Console.WriteLine(spend);
         addItem.TotalSpend = Convert.ToDecimal(FormatCurrencyString(spend));
 
         Items.Add(addItem);

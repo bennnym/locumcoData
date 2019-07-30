@@ -9,14 +9,14 @@ namespace Sales_Data.CSVParser
 {
   public class CsvParser
   {
-    public CsvParser(string pharmacyName)
+    public CsvParser(string pharmacyName, string path)
     {
       var pharmacy = new Shop(pharmacyName);
-      ReadCSV(pharmacy);
+      ReadCSV(pharmacy, path);
     }
-    public void ReadCSV(Shop pharmacy)
+    public void ReadCSV(Shop pharmacy, string path)
     {
-      using (var reader = new StreamReader(@"/Users/benmuller/locumco/EnterFileHere/salitms1.csv"))
+      using (var reader = new StreamReader(path))
       {
         string itemNumber = "";
         string itemDescription = "";
@@ -46,12 +46,13 @@ namespace Sales_Data.CSVParser
         }
       }
 
-      WriteToCsv(pharmacy);
+      WriteToCsv(pharmacy, path);
     }
 
-    public void WriteToCsv(Shop pharmacySearch)
+    public void WriteToCsv(Shop pharmacySearch, string path)
     {
-      //before your loop
+      var filenameIndex = path.LastIndexOf(".");
+      var resultsPath = path.Insert(filenameIndex, "-results");
       var csv = new StringBuilder();
       var heading = $"KeyWord Search: {string.Join(",", pharmacySearch.PharmacySearch)}";
       csv.AppendLine(heading);
@@ -71,7 +72,7 @@ namespace Sales_Data.CSVParser
       var lastLine = $"TOTAL,,{totalLocums},{totalRevenue}";
       csv.AppendLine(lastLine);
 
-      File.WriteAllText(@"/Users/benmuller/locumco/EnterFileHere/RESULTS.csv", csv.ToString());
+      File.WriteAllText(resultsPath, csv.ToString());
     }
   }
 }
